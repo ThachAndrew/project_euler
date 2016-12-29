@@ -1,6 +1,7 @@
 /*
  * Find sum of even value terms up to 4 mil
  * Fibonacci series for terms
+ * working
  */
 
 #include <iostream>
